@@ -133,6 +133,9 @@ header .right-part .nav2 ul li:not(:last-child)::after{
     align-items: center; */
     width: 100%;
 }
+.counter-top .btns a{
+    color: #fff;
+}
 .counter-top .btns button{
     font-family: acuminLightFont;
     /* padding: 5px 20px; */
@@ -340,6 +343,15 @@ header .right-part .nav2 ul li:not(:last-child)::after{
     transform: translateY(-50%);
 }
 /* start banner_3 */
+.banner_9{
+    position: relative;
+    background-image: url(./../images/kim-winner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 650px;
+    margin-bottom: 30px;
+}
 .banner_3{
     position: relative;
     background-image: url(./../images/award_img_3-06.jpg);
